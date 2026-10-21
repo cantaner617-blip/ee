@@ -1,0 +1,6 @@
+{
+  "name": "ResimPaylas - Profesyonel Görsel Yükleme Platformu",
+  "description": "Bunny.net Storage ve global CDN altyapısıyla profesyonel, hızlı ve güvenli görsel barındırma ve paylaşım servisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

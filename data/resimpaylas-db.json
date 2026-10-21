@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "id": "admin_usr_01",
+      "username": "admin",
+      "email": "admin@resimpaylas.com",
+      "passwordHash": "$2b$10$PgLkHgYxKMIoiTklgCWQ8eELn.6YO/hXHLQVLy/2EAtC6KvZyba/O",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-10-21T14:33:59.334Z"
+    },
+    {
+      "id": "usr_YpsAn4Vd6D",
+      "username": "testuser_R4zMBX",
+      "email": "testuser_R4zMBX@example.com",
+      "passwordHash": "$2b$10$vvPnsRk3nP24qjrL./YAz.dvfqVbwkBl2hOrcCEUqdReTLo9wende",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2026-10-21T14:33:59.461Z"
+    },
+    {
+      "id": "usr_rPVbRTB628",
+      "username": "testuser_YTBYN4",
+      "email": "testuser_YTBYN4@example.com",
+      "passwordHash": "$2b$10$MZX0HibgT9DYb7JqndsKN.3VMsL4jHISprqmM/By5FKC8bbDerGrK",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2026-10-21T14:42:16.605Z"
+    },
+    {
+      "id": "usr_eMB47dAqVR",
+      "username": "testuser_6LfMNA",
+      "email": "testuser_6LfMNA@example.com",
+      "passwordHash": "$2b$10$rh8Ww8IJa4heY8folqRBiOB18MJermObr6HRsDKdcRlAzXqhoRq2u",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2026-10-21T14:54:22.861Z"
+    }
+  ],
+  "images": [
+    {
+      "id": "XX7LVjaGy5",
+      "ownerId": "usr_YpsAn4Vd6D",
+      "originalName": "test-icon.png",
+      "storagePath": "images/2026/10/XX7LVjaGy5.png",
+      "cdnUrl": "https://ais-dev-27tzo4nqaurspynfpaqi7z-970061963866.europe-west2.run.app/api/storage-fallback/images/2026/10/XX7LVjaGy5.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": null,
+      "status": "deleted",
+      "createdAt": "2026-10-21T14:33:59.696Z"
+    },
+    {
+      "id": "EhZve3zKy7",
+      "ownerId": "usr_YpsAn4Vd6D",
+      "originalName": "expiring-temp.png",
+      "storagePath": "images/2026/10/EhZve3zKy7.png",
+      "cdnUrl": "http://cdn.example.com/images/2026/10/EhZve3zKy7.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": "2026-10-21T14:33:58.697Z",
+      "status": "deleted",
+      "createdAt": "2026-10-21T14:32:59.697Z"
+    },
+    {
+      "id": "8rrxcG2t8L",
+      "ownerId": "usr_rPVbRTB628",
+      "originalName": "test-icon.png",
+      "storagePath": "images/2026/10/8rrxcG2t8L.png",
+      "cdnUrl": "https://ais-dev-27tzo4nqaurspynfpaqi7z-970061963866.europe-west2.run.app/api/storage-fallback/images/2026/10/8rrxcG2t8L.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": null,
+      "status": "deleted",
+      "createdAt": "2026-10-21T14:42:16.813Z"
+    },
+    {
+      "id": "zqUTmhbWmq",
+      "ownerId": "usr_rPVbRTB628",
+      "originalName": "expiring-temp.png",
+      "storagePath": "images/2026/10/zqUTmhbWmq.png",
+      "cdnUrl": "http://cdn.example.com/images/2026/10/zqUTmhbWmq.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": "2026-10-21T14:42:15.814Z",
+      "status": "deleted",
+      "createdAt": "2026-10-21T14:41:16.814Z"
+    },
+    {
+      "id": "Jdh67e6zfu",
+      "ownerId": null,
+      "originalName": "test-bunny-image.png",
+      "storagePath": "images/2026/10/Jdh67e6zfu.png",
+      "cdnUrl": "https://oyeaga.b-cdn.net/images/2026/10/Jdh67e6zfu.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": null,
+      "status": "active",
+      "createdAt": "2026-10-21T14:54:03.846Z"
+    },
+    {
+      "id": "JCngsxhFLY",
+      "ownerId": "usr_eMB47dAqVR",
+      "originalName": "test-icon.png",
+      "storagePath": "images/2026/10/JCngsxhFLY.png",
+      "cdnUrl": "https://oyeaga.b-cdn.net/images/2026/10/JCngsxhFLY.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": null,
+      "status": "deleted",
+      "createdAt": "2026-10-21T14:54:23.261Z"
+    },
+    {
+      "id": "p7wGt4ZyNh",
+      "ownerId": "usr_eMB47dAqVR",
+      "originalName": "expiring-temp.png",
+      "storagePath": "images/2026/10/p7wGt4ZyNh.png",
+      "cdnUrl": "http://cdn.example.com/images/2026/10/p7wGt4ZyNh.png",
+      "mimeType": "image/png",
+      "extension": "png",
+      "sizeBytes": 67,
+      "width": 1,
+      "height": 1,
+      "visibility": "public",
+      "deleteAt": "2026-10-21T14:54:22.454Z",
+      "status": "deleted",
+      "createdAt": "2026-10-21T14:53:23.454Z"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_gtxcjsyG",
+      "ownerId": "usr_YpsAn4Vd6D",
+      "title": "Yaz Tatili Albümü",
+      "description": "Test albüm açıklaması",
+      "coverImageId": null,
+      "visibility": "public",
+      "createdAt": "2026-10-21T14:33:59.698Z"
+    },
+    {
+      "id": "alb_Rdcp9tvM",
+      "ownerId": "usr_rPVbRTB628",
+      "title": "Yaz Tatili Albümü",
+      "description": "Test albüm açıklaması",
+      "coverImageId": null,
+      "visibility": "public",
+      "createdAt": "2026-10-21T14:42:16.815Z"
+    },
+    {
+      "id": "alb_MP4pQtrc",
+      "ownerId": "usr_eMB47dAqVR",
+      "title": "Yaz Tatili Albümü",
+      "description": "Test albüm açıklaması",
+      "coverImageId": null,
+      "visibility": "public",
+      "createdAt": "2026-10-21T14:54:23.499Z"
+    }
+  ],
+  "albumImages": [
+    {
+      "albumId": "alb_gtxcjsyG",
+      "imageId": "XX7LVjaGy5",
+      "sortOrder": 0
+    },
+    {
+      "albumId": "alb_Rdcp9tvM",
+      "imageId": "8rrxcG2t8L",
+      "sortOrder": 0
+    },
+    {
+      "albumId": "alb_MP4pQtrc",
+      "imageId": "JCngsxhFLY",
+      "sortOrder": 0
+    }
+  ],
+  "siteSettings": {
+    "maxFileSize": 15728640,
+    "allowedFormats": [
+      "image/jpeg",
+      "image/png",
+      "image/webp",
+      "image/gif"
+    ],
+    "allowGuestUpload": true,
+    "allowRegistration": true,
+    "maintenanceMode": false,
+    "defaultVisibility": "public",
+    "siteName": "ResimPaylaş",
+    "siteDescription": "Hızlı, güvenli ve Bunny.net CDN altyapısıyla sınırsız görsel barındırma platformu."
+  },
+  "reports": [
+    {
+      "id": "rep_xHHw2hnz",
+      "imageId": "XX7LVjaGy5",
+      "reason": "Telif hakkı ihlali",
+      "details": "Test şikayet metni",
+      "status": "pending",
+      "createdAt": "2026-10-21T14:33:59.700Z"
+    },
+    {
+      "id": "rep_tUCBj2rE",
+      "imageId": "8rrxcG2t8L",
+      "reason": "Telif hakkı ihlali",
+      "details": "Test şikayet metni",
+      "status": "pending",
+      "createdAt": "2026-10-21T14:42:16.816Z"
+    },
+    {
+      "id": "rep_tEuEmM2X",
+      "imageId": "JCngsxhFLY",
+      "reason": "Telif hakkı ihlali",
+      "details": "Test şikayet metni",
+      "status": "pending",
+      "createdAt": "2026-10-21T14:54:23.501Z"
+    }
+  ]
+}
